@@ -1,0 +1,174 @@
+{
+    "intents": [
+        {
+            "tag": "greetings",
+            "patterns": [
+                "yo",
+                "what's up",
+                "greetings",
+                "hello",
+                "hiya",
+                "hi"
+            ],
+            "responses": [
+                "Hello!",
+                "Good to see you again!",
+                "Hi there, how can I help?",
+                "Greetings user, how can I serve you today?",
+                "Hey user!"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "bye",
+                "goodbye",
+                "cya",
+                "Come back soon",
+                "see you late",
+                "ciao"
+            ],
+            "responses": [
+                "bye bye!",
+                "Goodbye user!",
+                "See you later"
+            ]
+        },
+        {
+            "tag": "how are you",
+            "patterns": [
+                "what new",
+                "whats new",
+                "is it going well",
+                "how are you today",
+                "what is new",
+                "how is it going",
+                "whats up",
+                "how are you doing",
+                "how are you"
+            ],
+            "responses": [
+                "Still training myself.",
+                "I am optimizing my system.",
+                "Just having some fun.",
+                "I am chatting to you right now.",
+                "I am chilling.",
+                "I am watching the sun."
+            ]
+        },
+        {
+            "tag": "your_name",
+            "patterns": [
+                "do you have a name",
+                "whats your name",
+                "what is your name",
+                "do you have an name",
+                "i dont know how to call you",
+                "do you have a last name",
+                "how can i call you",
+                "what is your full name"
+            ],
+            "responses": [
+                "You can call me Aness!",
+                "My name is Aness bot",
+                "You can call me assistant or Aness."
+            ]
+        },
+        {
+            "tag": "felicitations",
+            "patterns": [
+                "excellent",
+                "woah",
+                "nice",
+                "bravo",
+                "excellent work",
+                "keep going",
+                "nice job",
+                "good work",
+                "good",
+                "good job",
+                "keep on going",
+                "fantastic",
+                "perfect",
+                "nice work"
+            ],
+            "responses": [
+                "Thank you!",
+                "I appreciate it",
+                "Thank for the kind words",
+                "No problem",
+                "My pleasure."
+            ]
+        },
+        {
+            "tag": "help for user",
+            "patterns": [
+                "i have a question",
+                "i need your assistance",
+                "i need some help",
+                "can you help me",
+                "help me",
+                "i need you to help me",
+                "im stuck with this problem",
+                "i require help",
+                "i need help",
+                "i need assistance",
+                "please help me",
+                "i need your help",
+                "can you assist me please",
+                "im stuck with this issue",
+                "can you help me with this",
+                "are you able to help me",
+                "i am stuck with this issue"
+            ],
+            "responses": [
+                "Of course! I'm here to help. What do you need assistance with?",
+                "I'm here to help you. What do you need assistance with?",
+                "Sure! I'm here to assist you. How can I help?",
+                "Don't worry, I'm here to help you. What do you need assistance with?",
+                "Gotchu!",
+                "What's wrong?"
+            ]
+        },
+        {
+            "tag": "declination",
+            "patterns": [
+                "nooooo",
+                "stop",
+                "no",
+                "shut up"
+            ],
+            "responses": [
+                "Understood. Please let me know if there's anything else I can assist you with.",
+                "Alright. Feel free to reach out whenever you need help.",
+                "No problem. If you change your mind, I'm here to help.",
+                "Okay, I'll be here if you need anything.",
+                "Alright!",
+                "Still here if any needs."
+            ]
+        },
+        {
+            "tag": "thanks",
+            "patterns": [
+                "i appreciate that",
+                "thanks",
+                "i appreciate it",
+                "youre the best",
+                "you are the best",
+                "i like it",
+                "good work",
+                "i love it",
+                "good job",
+                "thanks you"
+            ],
+            "responses": [
+                "No problem.",
+                "It's a pleasure!",
+                "No worries, Potate is here!",
+                "I appreciate it",
+                "Always here to help!",
+                "Got your back!"
+            ]
+        }
+    ]
+}
